@@ -4,3 +4,4 @@ yolov9/
 weights/
 submission/
 *.pdf
+.DS_Store
