@@ -1,0 +1,6 @@
+# YOLOv9 data file
+train: /Users/luweiren/Documents/Projects/CVPDL/CVPDL_HW1/taica-cvpdl-2025-hw-1/train/images
+val: /Users/luweiren/Documents/Projects/CVPDL/CVPDL_HW1/taica-cvpdl-2025-hw-1/train/images
+test: /Users/luweiren/Documents/Projects/CVPDL/CVPDL_HW1/taica-cvpdl-2025-hw-1/test/img
+nc: 1
+names: ['object']
